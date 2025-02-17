@@ -23,6 +23,7 @@ I work on data-driven techniques that help keep systems safe and reliable during
 Safe & Resilient Autonomous Driving Solutions
 ======
 ![illustration of learning gain-scheduling](/images/learnGainScheduling.jpg){: .align-right width="300px"}
+![illustration of learning gain-scheduling](/images/RCDos.png){: .align-right width="300px"}
 
 I focus on making autonomous driving safer and more adaptable by designing real-time lane-changing controllers that don’t rely on perfect system models. By merging adaptive dynamic programming with sensor fusion techniques—using GPS, IMU, and camera data processed on an Nvidia Jetson AGX—I ensure that vehicles can make quick, reliable decisions under fast-changing conditions. My work also includes robust safety features like lane abortion and resilience to cyber threats, such as DoS attacks, helping maintain stability even when networks are disrupted. Through both high-fidelity simulations and hands-on RC car tests, I demonstrate rapid learning and practical performance, bringing autonomous driving research closer to real-world roadways.
 
