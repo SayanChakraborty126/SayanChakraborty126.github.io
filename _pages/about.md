@@ -20,6 +20,12 @@ Resilient RL under Adversarial Conditions
 
 I work on data-driven techniques that help keep systems safe and reliable during cyber attacks, all without requiring comprehensive system models. By combining advanced reinforcement learning and control theoretic tools, my approach ensures long-term, stable performance in systems that evolve in either partially known or constantly changing environments. I also develop adaptive learning-based control strategies that quickly adapt to shifting attack patterns and use real-time data to identify critical DoS attack bounds, safeguarding closed-loop performance under adversarial conditions. Ultimately, my goal is to offer robust, cyber-resilient solutions that keep modern systems secure in an ever-evolving digital landscape.
 
+Resilient RL under Adversarial Conditions
+======
+![illustration of learning gain-scheduling](/images/learnGainScheduling.jpg){: .align-right width="300px"}
+
+I focus on making autonomous driving safer and more adaptable by designing real-time lane-changing controllers that don’t rely on perfect system models. By merging adaptive dynamic programming with sensor fusion techniques—using GPS, IMU, and camera data processed on an Nvidia Jetson AGX—I ensure that vehicles can make quick, reliable decisions under fast-changing conditions. My work also includes robust safety features like lane abortion and resilience to cyber threats, such as DoS attacks, helping maintain stability even when networks are disrupted. Through both high-fidelity simulations and hands-on RC car tests, I demonstrate rapid learning and practical performance, bringing autonomous driving research closer to real-world roadways.
+
 Getting started
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
