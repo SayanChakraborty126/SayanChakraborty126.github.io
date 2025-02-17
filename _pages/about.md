@@ -10,7 +10,7 @@ redirect_from:
 I am a fourth-year PhD student at New York University working under the supervision of Prof. Zhong-Ping Jiang. I obtained my MS in Systems and Control Engineering from the Indian Institute of Technology Hyderabad, India and my BE in Electrical Engineering from the National Institute of Technology Silchar, India.
 
 ![illustration of cyber attacks on RL agent](/images/DoSRL.png){: .align-center width="300px"}
-🔬 My research interests are in resilient and safe RL for dynamic systems
+🔬 My research interests lie in the intersection of control theory, reinforcement learning, cybersecurity and safe autonomy.
 
 
 
