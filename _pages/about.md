@@ -1,13 +1,18 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "👋 Hello there, I'm Sayan!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
+I am a fourth-year PhD student at New York University working under the supervision of Prof. Zhong-Ping Jiang. I obtained my Masters in Systems and Control from Indian Institute of Technology Hyderabad and my Bachelors in Electrical Engineering from National Institute of Technology, silchar
+
 ![illustration of cyber attacks on RL agent](/images/DoSRL.png){: .align-right width="300px"}
+🔬 My research interests are in resilient and safe RL for dynamic systems
+
+
 
 A data-driven personal website
 ======
