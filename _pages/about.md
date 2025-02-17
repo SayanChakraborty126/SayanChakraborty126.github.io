@@ -34,5 +34,9 @@ I focus on making autonomous driving safer and more adaptable by designing real-
 
 ![illustration of learning gain-scheduling](/images/accSusDemo.gif){: .align-right width="400px"}
 
+I focus on advanced motion planning that incorporates an entire vehicle model, including active suspension and uses real-time perception data for more precise, comfortable driving. By combining a two-phase nonlinear optimization process—first generating a reliable XY path based on road events and then refining it into a full XYZ trajectory—I can optimize speed, vertical movement, and overall stability. This approach has been extensively validated with both synthetic and real-world data, underscoring its practical effectiveness in dynamic driving scenarios.
+
+![illustration of learning gain-scheduling](/images/latticePlanner_jiang_color_updated1-2.png){: .align-bottom width="400px"}
+
 
 
