@@ -31,7 +31,6 @@ I focus on making autonomous driving safer and more adaptable by designing real-
 3D Safe Motion Planning for Autonomous Driving
 ======
 ![illustration of no suspension](/images/accNoSusDemo.gif){: .align-left width="300px"}
-
 ![illustration of active suspension](/images/accSusDemo.gif){: .align-right width="300px"}
 
 
