@@ -22,7 +22,7 @@ I work on data-driven techniques that help keep systems safe and reliable during
 
 Safe & Resilient Autonomous Driving Solutions
 ======
-![illustration of learning gain-scheduling](/images/learnGainScheduling.jpg){: .align-right width="410px"}
+![illustration of learning gain-scheduling](/images/learnGainScheduling.jpg){: .align-center width="650px"}
 
 ![illustration of learning gain-scheduling](/images/RCDos.png){: .align-right width="410px"}
 
@@ -30,7 +30,7 @@ I focus on making autonomous driving safer and more adaptable by designing real-
 
 3D Safe Motion Planning for Autonomous Driving
 ======
-![illustration of algorithm](/images/latticePlanner_jiang_color_updated1-2.png){: .align-center width="500px"}
+![illustration of algorithm](/images/latticePlanner_jiang_color_updated1-2.png){: .align-center width="650px"}
 
 ![illustration of no suspension](/images/accNoSusDemo.gif){: .align-right width="370px"}
 
